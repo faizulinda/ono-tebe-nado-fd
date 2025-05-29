@@ -54,14 +54,12 @@ h3 {
     text-decoration-style: solid;
 }
 
-
 .header {
     padding: 92px 50px 96px;
     display: grid;
     grid-template-columns: 1fr min-content 1fr;
     align-items: center;
 }
-
 
 .header__links-list {
     list-style: circle;
@@ -82,10 +80,6 @@ h3 {
     list-style: none;
 }
 
-.header__link {
-
-}
-
 .header__link_acrive {
     text-decoration: none;
 }
@@ -98,7 +92,6 @@ h3 {
 
 .address {
     text-decoration: none;
-
 }
 
 .header__address {
@@ -117,7 +110,6 @@ h3 {
     line-height: 24.3px;
     letter-spacing: 0%;
     border-bottom: 1px black solid;
-
 }
 
 
@@ -161,7 +153,6 @@ h3 {
     display: grid;
     grid-template-rows: repeat(3, auto);
     row-gap: 20px;
-
 }
 
 .aligned-text {
@@ -185,7 +176,6 @@ h3 {
     display: flex;
     align-items: center;
     justify-content: space-between;
-
 }
 
 .cover__description-text {
@@ -252,7 +242,6 @@ h3 {
     background-size: cover;
     background-position: center;
     position: relative;
-
 }
 
 .card-lot-02 {
@@ -277,7 +266,6 @@ h3 {
     gap: 30px;
     position: relative;
     z-index: 1;
-
 }
 
 .card__content__title {
@@ -357,7 +345,6 @@ h3 {
     font-size: 20px;
     line-height: 24px;
     letter-spacing: 0%;
-
 }
 
 .footer {
