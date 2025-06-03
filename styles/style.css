@@ -101,6 +101,7 @@
 .cover {
   padding: 165px 50px 50px;
   background-image: url("../images/cover.jpg");
+  background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   margin-bottom: 180px;
@@ -192,6 +193,8 @@
   display: flex;
   justify-content: space-between;
   margin-bottom: 31px;
+  flex-wrap: wrap;
+  gap: 25px;
 }
 
 .card {
